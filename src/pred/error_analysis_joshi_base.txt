@@ -1,0 +1,392 @@
+num_examples < 750: 
+
+37 pred: 1 gold: 0
+the holiday    ==    the road ca ##ving in
+... road cave - in accident that happened in Beijing over the holiday . Before ... East Third Ring Road , Beijing Municipality , resulting in the road ca ##ving in . Re ( 37 ) 
+
+65 pred: 0 gold: 1
+the two honorable guests    ==    the two of you
+... today to follow this topic with us . One of the two honorable guests in the ... , I especially want to know , ha , how the two of you found out ( 65 ) 
+
+348 pred: 0 gold: 1
+Jing ##gua ##ng Bridge , East Third Ring Road , Beijing Municipality    ==    Jing ##gua ##ng Bridge
+... ##age accident occurred at the main and side roads of Jing ##gua ##ng Bridge , East Third Ring Road , Beijing Municipality , resulting ... station called me at noon and said something happened at Jing ##gua ##ng Bridge and that ( 348 ) 
+
+170 pred: 1 gold: 0
+this    ==    SMS
+... , this time I think that a short SMS like this can fully ... . There are probably not as many chances to use SMS in foreign ( 170 ) 
+
+4 pred: 0 gold: 1
+2003    ==    that time
+... because , as I remember , during SA ##RS in 2003 , people at that time criticized e ( 4 ) 
+
+30 pred: 0 gold: 1
+SMS    ==    the most familiar method
+... . There are probably not as many chances to use SMS in foreign ... that penetration was quite high this time , by using the most familiar method , most ( 30 ) 
+
+447 pred: 1 gold: 0
+an extensive live broadcast    ==    It
+... , well , and we know that you all gave an extensive live broadcast this morning ... like those whom we interviewed just now . [SEP] [CLS] It was easy ( 447 ) 
+
+96 pred: 1 gold: 0
+Chao ##yang Road    ==    Jing ##gua ##ng Bridge
+... , especially during com ##mu ##ting times . Well , Chao ##yang Road is a ... think everyone can see that from the buses that cross Jing ##gua ##ng Bridge . Yes ( 96 ) 
+
+171 pred: 0 gold: 1
+East Third Ring Road    ==    East Third Ring Road
+... go on roads on the east and west sides . East Third Ring Road is a ... footage , we can see that , ha , at East Third Ring Road , ah ( 171 ) 
+
+7 pred: 0 gold: 1
+Director Men ##g Xi ##an ##long , Mr . Men ##g Xi ##an ##long , of the Command Center of the Beijing Municipal Traffic Administration    ==    Director Men ##g
+... eventually take to direct traffic ? Our correspondent specially interviewed Director Men ##g Xi ##an ##long , Mr . Men ##g Xi ##an ##long , of the Command Center of the Beijing Municipal Traffic Administration . Let ' s hear what Director Men ##g said . ( 7 ) 
+
+5 pred: 0 gold: 1
+traffic management and emergency repair    ==    it
+... , we should say it was very pro ##mpt with traffic management and emergency repair , ah , because it involved various ( 5 ) 
+
+14 pred: 0 gold: 1
+the government ' s    ==    it
+... society during the recovery period . Well , looking at the government ' s response to this cave - in accident , ah , we should say it was very ( 14 ) 
+
+356 pred: 1 gold: 0
+you    ==    your
+... involved many departments after it took place , how do you think the ... s lives were damaged after the accident , based on your understanding of ( 356 ) 
+
+200 pred: 0 gold: 1
+Beijing Municipality    ==    the municipal government
+... said that the response speed of the different departments of Beijing Municipality , as ... [CLS] After it , er , received this order from the municipal government , it ( 200 ) 
+
+98 pred: 1 gold: 0
+had    ==    this
+... have experienced similar incidents . Perhaps many overseas cities have had such kind ... occurrence of such accidents , and for a city , this is a ( 98 ) 
+
+49 pred: 1 gold: 0
+a suddenly occurring public emergency like this    ==    had
+... people , ah , for such a big city , a suddenly occurring public emergency like this should be ... have experienced similar incidents . Perhaps many overseas cities have had such kind ( 49 ) 
+
+28 pred: 0 gold: 1
+the road cave - in at East Third Ring Road this time    ==    this time
+... ago , the heavy rains two years ago , and the road cave - in at East Third Ring Road this time , I ... each time . Right . It can be said that this time , what ( 28 ) 
+
+214 pred: 1 gold: 0
+Beijing Municipality    ==    it
+... still vivid ##ly remember , there were no plans . Beijing Municipality still had ... therefore , as a local media in this city , it should become ( 214 ) 
+
+51 pred: 1 gold: 0
+is    ==    It
+... First , I think one that should be especially important is early warnings ... and forecast mechanism . Uh - huh . [SEP] [CLS] It is not ( 51 ) 
+
+259 pred: 1 gold: 0
+you    ==    you
+... very much on factors like temperature . Just now , you mentioned that ... accident in Beijing Municipality . At the same time , you have also ( 259 ) 
+
+28 pred: 1 gold: 0
+depends    ==    this work progress
+... will it take ? I think that the time really depends on how ... carried out in succession . [SEP] [CLS] Therefore , regarding this work progress , to ( 28 ) 
+
+30 pred: 1 gold: 0
+South China    ==    Northwest China
+... well . We see that except for some areas of South China , Southwest ... , there will be snow ##fall in the area from Northwest China to the ( 30 ) 
+
+80 pred: 1 gold: 0
+Southwest China    ==    the Huang - Hu ##ai area
+... see that except for some areas of South China , Southwest China , and ... experience continuous rainfall . However , southern North China and the Huang - Hu ##ai area will bid ( 80 ) 
+
+118 pred: 1 gold: 0
+columnist Tom Friedman    ==    I
+... and the Pakistan q ##ua ##ke ? A conversation with columnist Tom Friedman . Was ... adding in the coming week . so stay tuned . I had a ( 118 ) 
+
+126 pred: 0 gold: 1
+columnist Tom Friedman    ==    Pulitzer Prize winner Tom Friedman
+... and the Pakistan q ##ua ##ke ? A conversation with columnist Tom Friedman . Was ... tuned . I had a wide ranging sit ##down with Pulitzer Prize winner Tom Friedman . ( 126 ) 
+
+42 pred: 1 gold: 0
+her    ==    Miss Miller ' s
+... employee . This says the Bush administration was angry about her husband Joe ... The Times incurred millions of dollars in legal fees in Miss Miller ' s case . ( 42 ) 
+
+226 pred: 1 gold: 0
+Judy Miller and the New York Times    ==    the editors
+... [CLS] but first Judy Miller and the New York Times finally go ... the Times was so conflict ##ed in covering the controversy the editors killed the ( 226 ) 
+
+9 pred: 1 gold: 0
+the Times    ==    the editors
+... no way . that never happened . [SEP] [CLS] And the Times was so conflict ##ed in covering the controversy the editors killed the ( 9 ) 
+
+185 pred: 0 gold: 1
+Sc ##oot ##er Libby Dick Cheney ' s top aide    ==    Libby
+... account Miller confirmed that she told the grand jury that Sc ##oot ##er Libby Dick Cheney ' s top aide discussed with ... in covering the controversy the editors killed the story about Libby and pulled ( 185 ) 
+
+110 pred: 0 gold: 1
+her    ==    Valerie P ##lam ##e
+... employee . This says the Bush administration was angry about her husband Joe ... she pushed for a story on the out ##ing of Valerie P ##lam ##e back in ( 110 ) 
+
+40 pred: 0 gold: 1
+a separate first person account    ==    This
+... thousand word account of the CIA leak investigation . In a separate first person account Miller confirmed ... of Valerie P ##lam ##e as a CIA employee . This says the ( 40 ) 
+
+68 pred: 0 gold: 1
+her    ==    Miss Miller ' s
+... ##er Libby Dick Cheney ' s top aide discussed with her as many ... The Times incurred millions of dollars in legal fees in Miss Miller ' s case . ( 68 ) 
+
+2 pred: 0 gold: 1
+Frank Se ##s ##no professor of public policy and communication at George Mason University and a CNN special correspond ##ant    ==    Frank Se ##s ##no
+... for Freedom of the Press . and here in Washington Frank Se ##s ##no professor of public policy and communication at George Mason University and a CNN special correspond ##ant . Frank Se ##s ##no has the ( 2 ) 
+
+26 pred: 1 gold: 0
+another source beside Sc ##oot ##er Libby that she dealt with on the Valerie P ##lam ##e situation    ==    the name
+... Miller is quoted excuse me as saying that there was another source beside Sc ##oot ##er Libby that she dealt with on the Valerie P ##lam ##e situation . She ... and seeing the uh notation Valerie Flame . She got the name wrong . ( 26 ) 
+
+16 pred: 0 gold: 1
+the Valerie P ##lam ##e Bob Novak column    ==    it
+... these notes were just a few weeks old when um the Valerie P ##lam ##e Bob Novak column appeared and ... Washington and the whole journalist ##ic community was talking about it . You ( 16 ) 
+
+77 pred: 0 gold: 1
+me    ==    How ##ie
+... piece this morning uh uh Judy Miller is quoted excuse me as saying ... other source was ? [SEP] [CLS] No of course not How ##ie . In ( 77 ) 
+
+80 pred: 0 gold: 1
+their story today    ==    the article
+... this case and the Times makes it very plain in their story today they really ... a very serious question it ' s not answered in the article . [SEP] ( 80 ) 
+
+763 pred: 1 gold: 0
+I    ==    How ##ie
+... I think Lucy ' s on to something here if I can just ... Se ##s ##no please comment . Jump in . And How ##ie I ' ( 763 ) 
+
+65 pred: 1 gold: 0
+Tate    ==    I
+... do n ' t go there . [SEP] [CLS] Now Tate by the ... days ? N - you n - . you know I ' ve ( 65 ) 
+
+55 pred: 0 gold: 1
+Aria ##nna    ==    you
+... is not going to work . And on that point Aria ##nna on that ... with her colleagues who were writing the story . Do you think she ( 55 ) 
+
+687 pred: 1 gold: 0
+they    ==    they
+... talking to somebody quite close to this investigation is that they think there ... ##ed . I ca n ' t believe it . they re ##hea ( 687 ) 
+
+433 pred: 1 gold: 0
+Frank Se ##s ##no .    ==    this
+... Karl R ##ove and this speculation business you know . Frank Se ##s ##no . Pat Fitzgerald ... that anybody would think that you would do something like this a remote ( 433 ) 
+
+79 pred: 1 gold: 0
+it    ==    this
+... ' t believe it . they re ##hea ##rse ##d it . They ... this is uncomfortable to see . and what the problem this now creates ( 79 ) 
+
+13 pred: 0 gold: 1
+Miller    ==    Judy Miller
+... after Cheney even in some of the questioning eh of Miller . I think those were fairly routine questions about . you have Judy Miller there . ( 13 ) 
+
+283 pred: 1 gold: 0
+Crown Prince Abdullah    ==    He
+... . Louis Free ##h says that when Clinton met with Crown Prince Abdullah in nineteen ... under President Clinton ? He was at the meeting . He was in ( 283 ) 
+
+297 pred: 1 gold: 0
+The Clinton people    ==    they
+... investigation in fact to under ##mine it . [SEP] [CLS] The Clinton people were furious ... be on ? What about them doing reporting themselves before they air a ( 297 ) 
+
+241 pred: 1 gold: 0
+a Six ##ty Minutes spokesman    ==    Mister Carson the representative
+... [CLS] On that point let me read a statement from a Six ##ty Minutes spokesman . And ... they told us before just the week before . When Mister Carson the representative spoke to ( 241 ) 
+
+190 pred: 1 gold: 0
+Mister Carson the representative    ==    Mister Free ##h
+... they told us before just the week before . When Mister Carson the representative spoke to ... false charge . [SEP] [CLS] And even since that interview Mister Free ##h has backed ( 190 ) 
+
+385 pred: 1 gold: 0
+contacted    ==    it
+... statement I just referred to that the Clinton office was contacted in August ... Talk Back to the Media this morning . We appreciate it . ( 385 ) 
+
+481 pred: 0 gold: 1
+La ##nny Davis    ==    me
+... sub ##stant ##ive response to any of the allegations until La ##nny Davis launched his ... now basin ##g this on what Mister Carson has told me . Jay ( 481 ) 
+
+19 pred: 0 gold: 1
+his source    ==    somebody
+... ##h has backed off and has not told people who his source is . ... even insisted that it was true . He just said somebody told him ( 19 ) 
+
+513 pred: 0 gold: 1
+he    ==    former president Bill Clinton
+... in subsequent phone calls the President ' s people said he did not ... has told me . Jay Carson is the spokesman for former president Bill Clinton . [SEP] ( 513 ) 
+
+476 pred: 0 gold: 1
+a Six ##ty Minutes spokesman    ==    Six ##ty Minutes spokesman Kevin Ted ##es ##co
+... [CLS] On that point let me read a statement from a Six ##ty Minutes spokesman . And ... somebody told him it was true . Hold on . Six ##ty Minutes spokesman Kevin Ted ##es ##co said in ( 476 ) 
+
+133 pred: 1 gold: 0
+Pakistan ' s    ==    Wisconsin
+... point six earthquake struck last weekend as you recall . Pakistan ' s prime minister ... members collided overnight on interstate ninety - four and in Wisconsin . The ( 133 ) 
+
+218 pred: 1 gold: 0
+the first day of Rama ##dan their ho ##liest day    ==    the general continuing ins ##ec ##urity of Iraq that um I ' m afraid has plagued this story from the very beginning
+... A Sunni Muslim fundamental ##ist went into a mosque on the first day of Rama ##dan their ho ##liest day . and ... not suicide bombs . And it ' s part of the general continuing ins ##ec ##urity of Iraq that um I ' m afraid has plagued this story from the very beginning . And ( 218 ) 
+
+619 pred: 1 gold: 0
+win    ==    that
+... win this war ? We ' re never going to win it by ... their rifles were out . Yeah . Um how does that affect your ( 619 ) 
+
+592 pred: 1 gold: 0
+that    ==    this story
+... n ' t rule New York Times Washington Post made that part of ... of Iraq that um I ' m afraid has plagued this story from the ( 592 ) 
+
+203 pred: 1 gold: 0
+Rama ##dan    ==    the first day of Rama ##dan
+... news of recent days that a Sunni suicide bomber on Rama ##dan had attacked ... ##i suicide bomber blows up a mosque number one on the first day of Rama ##dan . What ( 203 ) 
+
+73 pred: 1 gold: 0
+us    ==    the paper
+... getting the real story there ? [SEP] [CLS] To help us s ##c ... of the New York Times you would ' ve led the paper with the ( 73 ) 
+
+17 pred: 0 gold: 1
+that    ==    protected
+... their rifles were out . Yeah . Um how does that affect your ... ? You ' re there . you ' re being protected . and ( 17 ) 
+
+
+
+
+===================errors:  60 (0-750)
+true_pos, true_neg, false_pos, false_neg, (342, 347, 34, 26)
+
+
+
+
+
+num_examples > 6000 and num_examples < 6500:
+
+261 pred: 0 gold: 1
+the company    ==    this plant
+... In order to solve the enormous need for capital , the company is now ... capacity of 4 , 000 tons . In 1997 , this plant made over ( 261 ) 
+
+2 pred: 0 gold: 1
+cargo owners ' w ##har ##ves    ==    their
+... , and will allow foreign businessmen investing exclusively to construct cargo owners ' w ##har ##ves and their specialized water ( 2 ) 
+
+26 pred: 0 gold: 1
+the State Tax ##ation Administration    ==    their
+... utilizing foreign investment will be promoted . Data provided by the State Tax ##ation Administration show that ... to enjoy prefer ##ential taxation , and the scope of their prefer ##ential ( 26 ) 
+
+85 pred: 0 gold: 1
+the area    ==    the T ##ian ##jin Port Bond ##ed Area
+... billion US dollars of goods going into and out of the area , increasing ... , opened up the special use the railway line from the T ##ian ##jin Port Bond ##ed Area passing Xi ( 85 ) 
+
+690 pred: 1 gold: 0
+America ' s    ==    Shan ##dong ' s
+... invested in Shan ##dong , ten multinational companies such as America ' s Ch ##ev ... previous year . As a new point of growth of Shan ##dong ' s open economy ( 690 ) 
+
+401 pred: 0 gold: 1
+Jin ##an    ==    Jin ##an ' s
+... [CLS] Xi ##nh ##ua News Agency , Jin ##an , January ... Shan ##dong ' s Chen ##min Paper Manufacturing Group , Jin ##an ' s Qing ##qi ( 401 ) 
+
+422 pred: 0 gold: 1
+Xi ##nh ##ua    ==    Xi ##nh ##ua ' s
+... [CLS] Xi ##nh ##ua News Agency ... Group , Yan ##tai ' s Zhang ##yu Group , Xi ##nh ##ua ' s Pharmacy Group ( 422 ) 
+
+226 pred: 1 gold: 0
+this year    ==    1994
+... However , in reviewing Mexico ' s foreign trade situation this year , it ... After the outbreak of Mexico ' s financial crisis in 1994 , Mexico ( 226 ) 
+
+199 pred: 1 gold: 0
+1997    ==    1996
+... [CLS] In 1997 , Mexico ... , 15 % and 22 . 7 % higher than 1996 , respectively ( 199 ) 
+
+379 pred: 1 gold: 0
+last year    ==    this year
+... in 1996 , and only 58 ##2 million US dollars last year . Especially ... if the import growth momentum can not be restrained , this year , a ( 379 ) 
+
+45 pred: 1 gold: 0
+the two countries    ==    China ' s
+... to use this as a start to expand trade between the two countries and to ... Province is the first to use this loan to import China ' s products . ( 45 ) 
+
+93 pred: 0 gold: 1
+China mechanical products purchased by Argentina ' s La ##R ##io ##ja Province using a loan provided by the Bank of China    ==    These products
+... by reporter Hong Xu ##e The hand ##over ceremony for China mechanical products purchased by Argentina ' s La ##R ##io ##ja Province using a loan provided by the Bank of China , was ... , the governor of La ##R ##io ##ja Province . These products included more ( 93 ) 
+
+153 pred: 0 gold: 1
+February 13th    ==    the 13th
+... [CLS] Xi ##nh ##ua News Agency , the UN , February 13th , Today ... dropped by planes of the multi - national forces on the 13th at 4 ( 153 ) 
+
+104 pred: 1 gold: 0
+The Wang ##ma Computer Company    ==    Wang ##ma
+... domestic computer users can copy and use . [SEP] [CLS] The Wang ##ma Computer Company was named ... ' s latest edition and the operating system using the Wang ##ma Chinese characters ( 104 ) 
+
+2 pred: 0 gold: 1
+the Wu ##bi font , the coding method of Chinese characters invented by the famous computer expert - Yong ##min Wang    ==    This simple , convenient and efficient input method
+... [SEP] [CLS] The Wang ##ma Computer Company was named for the Wu ##bi font , the coding method of Chinese characters invented by the famous computer expert - Yong ##min Wang . This simple , convenient and efficient input method covers more ( 2 ) 
+
+319 pred: 1 gold: 0
+registered capital of private enterprises    ==    that
+... There are 97 , 96 ##3 employed people , and registered capital of private enterprises is more ... Guangzhou has reached 53 ##4 , more than double of that of the ( 319 ) 
+
+10 pred: 0 gold: 1
+the number of science and technology consulting enterprises in Guangzhou    ==    that
+... fast . In the first quarter of this year , the number of science and technology consulting enterprises in Guangzhou has reached 53 ##4 , more than double of that of the ( 10 ) 
+
+240 pred: 1 gold: 0
+ten agricultural new high level technology development and model zones    ==    They
+... traditional agriculture into modern agriculture . [SEP] [CLS] Currently , ten agricultural new high level technology development and model zones have designated ... , 000 kg of potatoes to society this year . They have also ( 240 ) 
+
+383 pred: 1 gold: 0
+the National People ' s Congress    ==    UN
+... etc . A reporter asked : the Standing Committee of the National People ' s Congress had passed ... We do not hope to see the work of the UN population fund ( 383 ) 
+
+219 pred: 1 gold: 0
+the three - level Chinese rest ##ru ##cture ##d administrative system    ==    the UN population fund
+... and then cease . " ; Then , what will the three - level Chinese rest ##ru ##cture ##d administrative system be like ... ##tip ##ulated that any donation made by the US to the UN population fund must not ( 219 ) 
+
+8 pred: 0 gold: 1
+the work of the UN population fund    ==    its
+... the population fund . We do not hope to see the work of the UN population fund receiving interference or even being diverted from its principles and ( 8 ) 
+
+102 pred: 0 gold: 1
+June 30th , 1997    ==    the designated time
+... tier ##ed administrative system of Hong Kong will operate until June 30th , 1997 , and ... of the UK terminating its rule over Hong Kong at the designated time . He ( 102 ) 
+
+124 pred: 1 gold: 0
+Barr ##e    ==    He
+... in Asia , the unification of Europe , etc . Barr ##e hoped that ... ##my ##ao and the political consultation ##s in progress . He said that ( 124 ) 
+
+283 pred: 1 gold: 0
+goods that are reported as violating rights and other goods that were suspected of violating intellectual property rights    ==    their
+... exported ; when Customs discovers the import and export of goods that are reported as violating rights and other goods that were suspected of violating intellectual property rights , it ... that are copyright ##ed and related materials sufficient to prove their rights - ( 283 ) 
+
+77 pred: 1 gold: 0
+goods    ==    intellectual property rights
+... and video products ; when import ##ing and export ##ing goods , if ... the owners of intellectual property rights . The owners of intellectual property rights who are ( 77 ) 
+
+58 pred: 0 gold: 1
+a world famous power plant equipment manufacturer - - the US ' s West ##ing ##house Company    ==    the US West ##ing ##house Company
+... signing of a 20 - year joint investment agreement between a world famous power plant equipment manufacturer - - the US ' s West ##ing ##house Company and the ... is reported that , the joint - investment agreement between the US West ##ing ##house Company and the ( 58 ) 
+
+394 pred: 1 gold: 0
+the 6th Far East and South Pacific Di ##sable ##d Games    ==    Three National Di ##sable ##d Games
+... expansion , and is currently rising . The holding of the 6th Far East and South Pacific Di ##sable ##d Games will provide ... levels continually improve and the reserve force is growing . Three National Di ##sable ##d Games were held ( 394 ) 
+
+659 pred: 1 gold: 0
+undergone    ==    the vigorous development of the sports cause for China ' s disabled
+... The China ' s hand ##ica ##pped sports cause has undergone the several ... guarantee of the law has and will continue to boost the vigorous development of the sports cause for China ' s disabled . [SEP] ( 659 ) 
+
+52 pred: 1 gold: 0
+Jesus    ==    Young man
+... [CLS] Jesus got into ... So he said to the paralyzed man , ` ` Young man , you ( 52 ) 
+
+390 pred: 1 gold: 0
+I    ==    the Jewish leader
+... and learn what this Sc ##rip ##ture means : ' I do n ... Then the woman was healed . Jesus continued going with the Jewish leader and went ( 390 ) 
+
+384 pred: 0 gold: 1
+Jesus    ==    his
+... with tax collectors and other sin ##ners ? ' ' Jesus heard them ... She was thinking , ` ` If I can touch his coat , ( 384 ) 
+
+120 pred: 0 gold: 1
+They    ==    the Ph ##aris ##ees
+... ##ees saw that Jesus was eating with these people . They asked his ... came to Jesus and said , ` ` We and the Ph ##aris ##ees fast often ( 120 ) 
+
+17 pred: 0 gold: 1
+I    ==    the woman
+... his coat . She was thinking , ` ` If I can touch ... will be healed . ' ' Jesus turned and saw the woman . He ( 17 ) 
+
+
+
+
+===================errors:  33
+true_pos, true_neg, false_pos, false_neg, (233, 233, 17, 16)
+

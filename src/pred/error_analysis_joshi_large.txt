@@ -1,0 +1,358 @@
+num_examples < 750: 
+
+46 pred: 1
+I    ==    I
+... the studio to participate in our program . Well , I especially want ... , I happened to find out through an SMS when I was outside ( 46 ) 
+
+135 pred: 1
+I    ==    me
+... the studio to participate in our program . Well , I especially want ... Yang Yang ? [SEP] [CLS] A friend happened to call me . You ( 135 ) 
+
+277 pred: 0
+the accident    ==    it
+... of you found out the news on the day of the accident ? Ah ... we live in the west instead of the east and it did not ( 277 ) 
+
+246 pred: 0
+January 3    ==    yesterday
+... happened in Beijing over the holiday . Before dawn on January 3 , a ... ? Ah , , about 11 : 00 m . yesterday , ah ( 246 ) 
+
+32 pred: 0
+Beijing Municipality    ==    Beijing
+... I felt it seems to be the first time that Beijing Municipality , ah ... ' t know , all of us are living in Beijing , is ( 32 ) 
+
+103 pred: 1
+I    ==    Yang Yang
+... , are applied in e - government . Hence , I think this ... Yes . We drive often in Beijing , ha , Yang Yang . If ( 103 ) 
+
+30 pred: 0
+SMS    ==    the most familiar method
+... . There are probably not as many chances to use SMS in foreign ... that penetration was quite high this time , by using the most familiar method , most ( 30 ) 
+
+96 pred: 1
+I    ==    you
+... the reactions of citizens . - - an SMS . I saw it ... a bit earlier and took the subway here . Do you think that ( 96 ) 
+
+107 pred: 1
+he    ==    him
+... understood . Yes , ah , , a citizen , he said , ... the same route . Later on , we suggested to him and said ( 107 ) 
+
+4 pred: 0
+We    ==    we
+... Center at the Guo ##ma ##o Bridge , ah . We were discussing that we could go ( 4 ) 
+
+44 pred: 0
+some listeners    ==    them
+... find out from them ? Actually , this morning , some listeners , ah ... are many office buildings , ah , a lot of them , as ( 44 ) 
+
+5 pred: 0
+traffic management and emergency repair    ==    it
+... , we should say it was very pro ##mpt with traffic management and emergency repair , ah , because it involved various ( 5 ) 
+
+284 pred: 0
+this incident    ==    this
+... [CLS] Well , ah , Professor Zhou , as this incident involved many ... , played a great role . Hence , I think this was also ( 284 ) 
+
+146 pred: 0
+Beijing    ==    the municipal government , ah , including sub - district offices
+... For instance , it is very cold during winter in Beijing , and ... relatively quickly . Hence , over here , I think the municipal government , ah , including sub - district offices , made ( 146 ) 
+
+91 pred: 1
+It    ==    that time
+... have this kind of direct SMS exchange with listeners . It is because ... Municipality still had no emergency plan . Well , at that time , it ( 91 ) 
+
+80 pred: 1
+southern North China    ==    Northwest China
+... Northwest China to the Huang - Hu ##ai area through southern North China . The ... stop , and there will also be less snow in Northwest China . In ( 80 ) 
+
+23 pred: 1
+the Jiang - Hu ##ai area    ==    the Huang - Hu ##ai area
+... . The east of Southwest China , as well as the Jiang - Hu ##ai area and the ... experience continuous rainfall . However , southern North China and the Huang - Hu ##ai area will bid ( 23 ) 
+
+117 pred: 0
+A conversation with columnist Tom Friedman .    ==    a wide ranging sit ##down with Pulitzer Prize winner Tom Friedman
+... Harriet Meyer ##s and the Pakistan q ##ua ##ke ? A conversation with columnist Tom Friedman . Was Six ... the coming week . so stay tuned . I had a wide ranging sit ##down with Pulitzer Prize winner Tom Friedman . ( 117 ) 
+
+54 pred: 1
+Valerie P ##lam ##e    ==    Miss Miller ' s
+... with her as many as three times the role of Valerie P ##lam ##e as a ... The Times incurred millions of dollars in legal fees in Miss Miller ' s case . ( 54 ) 
+
+181 pred: 0
+Sc ##oot ##er Libby Dick Cheney ' s top aide    ==    Libby
+... account Miller confirmed that she told the grand jury that Sc ##oot ##er Libby Dick Cheney ' s top aide discussed with ... in covering the controversy the editors killed the story about Libby and pulled ( 181 ) 
+
+4 pred: 1
+that    ==    this
+... that the public has the right to know and that that ' s what this is all ( 4 ) 
+
+167 pred: 1
+Jays ##on Blair    ==    him
+... policy on that story . And the similarities for the Jays ##on Blair case . ... is the Dick Cheney aide she agreed to refer to him and in ( 167 ) 
+
+119 pred: 0
+an honest accounting of its role of Judy Miller ' s role and the tensions that she created in the news ##room    ==    the Times ' own account
+... be ##lated ##ly to be sure fought and finally made an honest accounting of its role of Judy Miller ' s role and the tensions that she created in the news ##room ? Well ... it ? you know she ' s referred to in the Times ' own account as Miss ( 119 ) 
+
+85 pred: 0
+agreed    ==    the agreement
+... ' s request this is the Dick Cheney aide she agreed to refer ... but that was a strange request . and I think the agreement was strange ( 85 ) 
+
+158 pred: 1
+Sc ##oot ##er Libby    ==    she
+... one time killed a piece written by a reporter about Sc ##oot ##er Libby . Was ... They did n ' t say that you know until she walked out ( 158 ) 
+
+213 pred: 1
+she    ==    Valerie P ##lam ##e
+... when she went to jail and w - . When she won release ... source was when it comes to revealing the identity of Valerie P ##lam ##e . And ( 213 ) 
+
+210 pred: 0
+the Times    ==    They
+... [CLS] Frank Se ##s ##no the Times was so ... . Yeah at the point that she came out . They did n ( 210 ) 
+
+123 pred: 0
+their story today    ==    this lengthy piece this morning
+... this case and the Times makes it very plain in their story today they really ... news uh section ? Aria ##nna Hu ##ffington uh in this lengthy piece this morning uh uh ( 123 ) 
+
+1141 pred: 1
+Sc ##oot ##er Libby    ==    her
+... and not accept the wa ##iver of confidential ##ity that Sc ##oot ##er Libby offered and ... or ask to see her notes while they were defending her . Ask ( 1141 ) 
+
+180 pred: 1
+she    ==    Aria ##nna
+... this negotiation took so long is that not only was she negotiating what ... is not going to work . And on that point Aria ##nna on that ( 180 ) 
+
+1032 pred: 0
+them    ==    her colleagues who were writing the story
+... and she would n ' t share her notes with them although they ... . She would n ' t share her notes with her colleagues who were writing the story . Do ( 1032 ) 
+
+1027 pred: 0
+they    ==    her notes
+... would n ' t share her notes with them although they ' ve ... write a book . She would n ' t share her notes with her ( 1027 ) 
+
+76 pred: 0
+re ##co ##unting    ==    that account
+... Dal ##gli ##sh the big news for me was Miller re ##co ##unting what her ... . Now Tate by the way tells the Times that that account is false ( 76 ) 
+
+449 pred: 0
+Sc ##oot ##er Libby    ==    her confidential source
+... and not accept the wa ##iver of confidential ##ity that Sc ##oot ##er Libby offered and ... c ##lar ##ify uh she did ultimately uh testify about her confidential source . The ( 449 ) 
+
+1193 pred: 0
+the Times    ==    the New York Times
+... t go there . Now Tate by the way tells the Times that that ... to see her . And by the way we invited the New York Times to have ( 1193 ) 
+
+459 pred: 0
+the wa ##iver of confidential ##ity that Sc ##oot ##er Libby offered    ==    the wa ##iver of her promise to Sc ##oot ##er Libby
+... otherwise mysterious decision to go to jail and not accept the wa ##iver of confidential ##ity that Sc ##oot ##er Libby offered and sit ... confidential source . The whole issue was how voluntary was the wa ##iver of her promise to Sc ##oot ##er Libby offered and ( 459 ) 
+
+272 pred: 1
+Re ##lia ##ble Sources    ==    the administration
+... in Iraq . Stay with us . Welcome back to Re ##lia ##ble Sources . As ... of the courthouse . But uh will it bring down the administration ? I ( 272 ) 
+
+882 pred: 1
+I    ==    Aria ##nna Hu ##ffington
+... That ' s the point . Aria ##nna Hu ##ffington I used to ... ll have to leave it there . Last word . Aria ##nna Hu ##ffington Lucy Dal ( 882 ) 
+
+363 pred: 1
+Miller    ==    Michael De ##aver the ultimate image me ##ister for Ronald Reagan
+... after Cheney even in some of the questioning eh of Miller . I ... know something ? uh I remember a long time ago Michael De ##aver the ultimate image me ##ister for Ronald Reagan said my ( 363 ) 
+
+393 pred: 1
+R ##ove    ==    I
+... that uh in Cheney ' s office with Libby and R ##ove and Mary ... you stunned ? Are you stunned ? Shock ##ed . I ca n ( 393 ) 
+
+4 pred: 1
+President Bush ' s uh meeting uh uh photo op some called it with US troops in Iraq    ==    staged
+... this . Alright I want to turn now to uh President Bush ' s uh meeting uh uh photo op some called it with US troops in Iraq whether it was staged how shocking ( 4 ) 
+
+739 pred: 1
+Bush    ==    Ronald Reagan
+... If R ##ove gets indicted that could bring down the Bush administration I ... ago Michael De ##aver the ultimate image me ##ister for Ronald Reagan said my ( 739 ) 
+
+261 pred: 1
+President Bush ' s uh meeting uh uh photo op some called it with US troops in Iraq    ==    do
+... this . Alright I want to turn now to uh President Bush ' s uh meeting uh uh photo op some called it with US troops in Iraq whether it ... But the fact that anybody would think that you would do something like ( 261 ) 
+
+67 pred: 0
+Fitzgerald    ==    Pat Fitzgerald .
+... um the reporting on the Miller story , that uh Fitzgerald is after ... speculation business you know . Frank Se ##s ##no . Pat Fitzgerald . It ' ( 67 ) 
+
+107 pred: 1
+President Clinton ' s    ==    him
+... launch our new segment Talk Back to the Media . President Clinton ' s former lawyer ... former FBI director un ##loaded on the President who appointed him Bill Clinton ( 107 ) 
+
+43 pred: 1
+they    ==    you
+... be on ? What about them doing reporting themselves before they air a ... the meeting . He was in the room . Did you offer him ( 43 ) 
+
+1 pred: 1
+a terrible charge that an FBI investigation was th ##wart ##ed because President Clinton wanted to receive money for his library    ==    his library
+... a false and ma ##lic ##ious statement . This is a terrible charge that an FBI investigation was th ##wart ##ed because President Clinton wanted to receive money for his library . The ( 1 ) 
+
+56 pred: 0
+my    ==    You
+... and demons ##tra ##bly false charge ? That ' s my problem . ... n ' t there . I was not there . You ' re ( 56 ) 
+
+285 pred: 0
+Six ##ty Minutes    ==    themselves
+... it . The Clinton people were furious at the way Six ##ty Minutes hailed the ... willing to be on ? What about them doing reporting themselves before they ( 285 ) 
+
+364 pred: 1
+a Six ##ty Minutes spokesman    ==    somebody named Howard Kurt ##z
+... [CLS] On that point let me read a statement from a Six ##ty Minutes spokesman . And ... the presidential library so ##licit ##ation . [SEP] [CLS] When somebody named Howard Kurt ##z wrote a ( 364 ) 
+
+373 pred: 0
+me    ==    somebody named Howard Kurt ##z
+... [CLS] On that point let me read a ... the presidential library so ##licit ##ation . [SEP] [CLS] When somebody named Howard Kurt ##z wrote a ( 373 ) 
+
+502 pred: 0
+they    ==    Six ##ty Minutes
+... the representative spoke to Mister Wallace Mister Wallace agreed that they had never ... good journalism . [SEP] [CLS] Let ' s ask a Six ##ty Minutes uh journalist ( 502 ) 
+
+470 pred: 0
+a Six ##ty Minutes spokesman    ==    Six ##ty Minutes spokesman Kevin Ted ##es ##co
+... [CLS] On that point let me read a statement from a Six ##ty Minutes spokesman . And ... somebody told him it was true . Hold on . Six ##ty Minutes spokesman Kevin Ted ##es ##co said in ( 470 ) 
+
+370 pred: 0
+Clinton ' s office    ==    the Clinton forces
+... . And this involves uh their saying that they contacted Clinton ' s office back in ... Washington Post on Friday morning is the first time that the Clinton forces learned about ( 370 ) 
+
+329 pred: 0
+his    ==    the former FBI director
+... ##h has backed off and has not told people who his source is ... you have an obligation to verify a charge made by the former FBI director as whether ( 329 ) 
+
+10 pred: 0
+contacted    ==    That
+... statement I just referred to that the Clinton office was contacted in August with a detailed list of charges . That ' s ( 10 ) 
+
+148 pred: 1
+this morning    ==    Those
+... and a half million homeless . Toledo Ohio is quiet this morning after a ... competition at the University of Wisconsin in White ##water . Those are the ( 148 ) 
+
+155 pred: 1
+Rama ##dan    ==    the south of Iraq which is where I was the area around
+... ##ist went into a mosque on the first day of Rama ##dan their ho ... ##rrow ##ing experience . Why so ? Um you know the south of Iraq which is where I was the area around . This ( 155 ) 
+
+579 pred: 1
+win    ==    that
+... there ' s only { one ? } way we win this war ... their rifles were out . Yeah . Um how does that affect your ( 579 ) 
+
+75 pred: 0
+we    ==    us
+... ten AM eastern seven on the west coast . And we ' ll ... are journalists getting the real story there ? To help us s ##c ( 75 ) 
+
+617 pred: 0
+How ##ie    ==    you
+... only { one ? } way we win this war How ##ie is it ... situation is in there . Well I ' ll tell you what ' ( 617 ) 
+
+
+true_pos, true_neg, false_pos, false_neg, (336, 352, 29, 32)
+
+===================errors:  61 (0-750)
+
+
+
+
+
+
+
+
+num_examples > 6000 and num_examples < 6500:
+
+285 pred: 0 gold: 1
+Mao - ta ##i Di ##stillery , which is well - known in China and abroad    ==    it
+... December 22nd , by reporter Fang Fang G ##uiz ##hou Mao - ta ##i Di ##stillery , which is well - known in China and abroad , plans ... two - phase expansion and technology renovation . Currently , it has an ( 285 ) 
+
+26 pred: 0 gold: 1
+the State Tax ##ation Administration    ==    their
+... utilizing foreign investment will be promoted . Data provided by the State Tax ##ation Administration show that ... to enjoy prefer ##ential taxation , and the scope of their prefer ##ential ( 26 ) 
+
+676 pred: 1 gold: 0
+the whole year    ==    last year
+... flu ##ct ##uations in growth rates of every quarter of the whole year , but ... ##uan , 14 . 8 % higher than that of last year . - ( 676 ) 
+
+59 pred: 1 gold: 0
+International business loans    ==    their
+... be approved by the National Foreign Exchange Management Bureau . International business loans that have ... interests are not to be re ##mit ##ted out on their own authority ( 59 ) 
+
+29 pred: 1 gold: 0
+foreign debts    ==    their
+... Foreign Exchange Management Bureau will not process the registration of foreign debts , banks ... interests are not to be re ##mit ##ted out on their own authority ( 29 ) 
+
+265 pred: 0 gold: 1
+China ' s    ==    China
+... abroad , and from foreign - funded financial institutions within China ' s border , ... international commercial loans external ##ly are only limited to : China - capital ( 265 ) 
+
+13 pred: 0 gold: 1
+foreign debts    ==    them
+... Foreign Exchange Management Bureau will not process the registration of foreign debts , banks are not allowed to open exclusive foreign debt accounts for them , loan ( 13 ) 
+
+234 pred: 1 gold: 0
+1997    ==    1998
+... 72 ##2 million US dollars in December , reducing the 1997 annual a ... people from economic circles , who even predicted that in 1998 , foreign ( 234 ) 
+
+102 pred: 1 gold: 0
+1994    ==    1995
+... After the outbreak of Mexico ' s financial crisis in 1994 , Mexico ... degradation : 7 . 88 ##9 billion US dollars in 1995 , 6 ( 102 ) 
+
+103 pred: 1 gold: 0
+1995    ==    the year
+... vigorously supporting exports , and exports grew rapidly . In 1995 , the ... monthly deficit in July last year , the rest of the year saw successive ( 103 ) 
+
+13 pred: 0 gold: 1
+1998    ==    this year
+... people from economic circles , who even predicted that in 1998 , foreign trade deficit would revive . They pointed out that , this year , except ( 13 ) 
+
+34 pred: 0 gold: 1
+last year    ==    last year
+... statistics from the General Administration of Customs show that , last year , China ... dollars , 4 . 5 % higher than that of last year , and ( 34 ) 
+
+179 pred: 0 gold: 1
+the multi - national forces    ==    the multi - national forces
+... , the UN Secretary - General , expressed grief at the multi - national forces air striking ... thinks that this bombing again shows that the activity of the multi - national forces has exceeded ( 179 ) 
+
+295 pred: 1 gold: 0
+Lai ##wu City    ==    The Wei ##hai agricultural new high level technology development and model zone
+... level technology development and model zones similar to that of Lai ##wu City . A ... re ##ap ##ed better economic benefits and social benefits . The Wei ##hai agricultural new high level technology development and model zone introduced a ( 295 ) 
+
+261 pred: 1 gold: 0
+the National People ' s Congress    ==    UN
+... etc . A reporter asked : the Standing Committee of the National People ' s Congress had passed ... ##ulated that any donation made by the US to the UN population fund ( 261 ) 
+
+55 pred: 0 gold: 1
+the three - tier ##ed administrative system of Hong Kong    ==    the HK - UK three - level administrative system , namely the last HK - UK legislative council , the two municipal departments , and the district parliament
+... People ' s Congress had passed a resolution regarding " the three - tier ##ed administrative system of Hong Kong will operate ... construct this system ? Guo ##fan ##g Shen said that the HK - UK three - level administrative system , namely the last HK - UK legislative council , the two municipal departments , and the district parliament will only ( 55 ) 
+
+175 pred: 0 gold: 1
+the Chinese government    ==    China ' s
+... Hong Kong at the designated time . He said that the Chinese government has repeatedly ... to China . [SEP] [CLS] It is an insult to China ' s family planning ( 175 ) 
+
+182 pred: 1 gold: 0
+the two countries , namely China and France    ==    China and Uruguay
+... happen in the international situation , maintaining friendly relations between the two countries , namely China and France , will ... than six years since the establishment of diplomatic relations between China and Uruguay , the ( 182 ) 
+
+164 pred: 1 gold: 0
+Both sides    ==    China and Uruguay
+... the peace , stability and development of the world . Both sides also exchanged ... than six years since the establishment of diplomatic relations between China and Uruguay , the ( 164 ) 
+
+697 pred: 0 gold: 1
+vice Foreign Affairs Minister of Paraguay East Coast Republic Her ##sh ##y Maria Carmel    ==    his
+... individually with former French Prime Minister Raymond Barr ##e and vice Foreign Affairs Minister of Paraguay East Coast Republic Her ##sh ##y Maria Carmel . Qi ... achieved widespread agreement . [SEP] [CLS] Ka ##my ##ao and his en ##tour ( 697 ) 
+
+30 pred: 0 gold: 1
+the con ##sign ##ors and con ##sign ##ees    ==    them
+... ; when import ##ing and export ##ing goods , if the con ##sign ##ors and con ##sign ##ees f ##als ... smug ##gle goods that violate rights , Customs will handle them in accordance ( 30 ) 
+
+62 pred: 0 gold: 1
+The owners of intellectual property rights who are protected by China ' s law    ==    their
+... and obligations of the owners of intellectual property rights . The owners of intellectual property rights who are protected by China ' s law can report ... that are copyright ##ed and related materials sufficient to prove their rights - ( 62 ) 
+
+22 pred: 1 gold: 0
+a hole in an old coat    ==    the patch
+... . ` ` When someone se ##ws a patch over a hole in an old coat , they ... already been s ##hr ##unk . If they do , the patch will shrink ( 22 ) 
+
+
+
+
+===================errors:  23
+true_pos, true_neg, false_pos, false_neg, (240, 236, 11, 12)
+
