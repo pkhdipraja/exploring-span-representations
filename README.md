@@ -22,3 +22,23 @@ The extracted .h5 files can be used to run probing experiments using `train_base
 ```
 python3 train_baseline.py --train_data </path/to/train_data> --val_data </path/to/val_data> --test_data </path/to/test_data> --exp_name <test_experiment_name> --cnn_context 1 --embed_dim 1024
 ```
+
+## Citations
+
+If you use this implementation, please cite the paper, [Exploring Span Representations in Neural Coreference Resolution](https://www.aclweb.org/anthology/2020.codi-1.4/).
+
+```
+@inproceedings{kahardipraja-etal-2020-exploring,
+    title = "Exploring Span Representations in Neural Coreference Resolution",
+    author = "Kahardipraja, Patrick  and
+      Vyshnevska, Olena  and
+      Lo{\'a}iciga, Sharid",
+    booktitle = "Proceedings of the First Workshop on Computational Approaches to Discourse",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.codi-1.4",
+    pages = "32--41",
+}
+```
